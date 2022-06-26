@@ -1,0 +1,7 @@
+#### Requirements for the spotify playlist sorter ###
+
+webbrowser
+requests
+urllib
+base64
+json
